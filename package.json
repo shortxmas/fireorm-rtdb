@@ -1,8 +1,7 @@
 {
   "name": "fireorm-rtdb",
   "version": "0.0.1",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest",
     "dev": "tsc -p tsconfig.json --watch",
